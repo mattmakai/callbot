@@ -1,2 +1,2 @@
-# phonebot
-A Slack bot to make phone calls using Twilio.
+# CallBot
+A Slack bot for making phone calls to any phone number using Twilio.
