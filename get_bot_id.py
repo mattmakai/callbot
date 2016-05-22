@@ -3,7 +3,7 @@ from slackclient import SlackClient
 
 BOT_NAME = 'callbot'
 
-slack_client = SlackClient(os.environ.get('SLACK_TOKEN'))
+slack_client = SlackClient(os.environ.get('SLACK_BOT_TOKEN'))
 
 
 if __name__ == "__main__":
