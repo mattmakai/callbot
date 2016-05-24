@@ -1,4 +1,6 @@
 # CallBot
+<img src="static/slack-twilio-phone.png">
+
 A Slack bot for making phone calls to any phone number using Twilio.
 
 Read the 
